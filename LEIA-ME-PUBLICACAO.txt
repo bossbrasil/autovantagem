@@ -1,0 +1,26 @@
+AUTOVANTAGEM — SITE COMPLETO
+Conteúdo para enviar diretamente a /public_html
+
+ARQUIVOS NOVOS:
+index.html
+comprar.html
+vender.html
+lojistas.html
+assets/
+
+PRESERVAR:
+index2.html
+admin/
+ajax/
+demais arquivos do sistema legado.
+
+PUBLICAÇÃO SEGURA:
+1) Faça backup do index.html atual.
+2) Suba os quatro HTML e a pasta assets.
+3) NÃO apague index2.html nem o sistema antigo.
+4) Teste:
+   /index.html
+   /comprar.html
+   /vender.html
+   /lojistas.html
+5) Teste todos os WhatsApps.
